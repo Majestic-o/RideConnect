@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAUi_5Pr1URJeKkqDffLE7MTfvNiQiM4JI",
+  apiKey: API,
   authDomain: "rideconnect-49829.firebaseapp.com",
   databaseURL: "https://rideconnect-49829-default-rtdb.firebaseio.com",
   projectId: "rideconnect-49829",
